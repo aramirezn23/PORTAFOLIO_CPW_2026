@@ -2,7 +2,7 @@
 
 # 📘 Portafolio de Evidencias
 
-### Nombre Completo de la Persona Estudiante
+### Adrián Francisco Ramírez Navarro
 
 **CSTI12002 · Codificación de páginas web** · Instituto Nacional de Aprendizaje
 Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
@@ -170,7 +170,7 @@ _(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
 
 <div align="center">
 
-**Nombre Completo** · correo@ejemplo.com
+**Adrián Francisco Ramírez Navarro** · 115740782@ina.cr.com
 
 Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026
 
