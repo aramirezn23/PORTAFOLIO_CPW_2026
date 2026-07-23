@@ -2,7 +2,7 @@
 
 # 📘 Portafolio de Evidencias
 
-### Adrián Francisco Ramírez Navarro
+### Nombre Completo de la Persona Estudiante
 
 **CSTI12002 · Codificación de páginas web** · Instituto Nacional de Aprendizaje
 Facilitador: Giovanni Antonio Coto Calderón · Edición 2 · 2026
@@ -48,9 +48,9 @@ Portafolio-Codificación de Páginas Web/
 
 ### Unidad 1 · Implementación de control de versiones
 
-| Sesión | Tema         | Qué aprendí                            |      Trabajo      |     Captura      |
-| :----: | :----------- | :------------------------------------- | :---------------: | :--------------: |
-|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/) | [ver](recursos/) |
+| Sesión | Tema         | Qué aprendí                            |      Trabajo      |                   Captura                    |
+| :----: | :----------- | :------------------------------------- | :---------------: | :------------------------------------------: |
+|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/) | [ver](recursos/href="Recursos/Captura 1.png) |
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
@@ -170,7 +170,7 @@ _(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
 
 <div align="center">
 
-**Adrián Francisco Ramírez Navarro** · 115740782@ina.cr.com
+**Nombre Completo** · correo@ejemplo.com
 
 Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026
 
