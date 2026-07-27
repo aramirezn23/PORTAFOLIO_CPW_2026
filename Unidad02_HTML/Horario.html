@@ -1,10 +1,76 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Horario | Sitio demo </title>
-</head>
-<body> 
-    <h1>Horario</h1>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Horario de clases del sitio demo" />
+    <meta name="keywords" content="Horario, clases, sitio-demo" />
+    <meta name="author" content="Adrián Ramírez Navarro" />
+    <title>Horario | Sitio demo</title>
+  </head>
+  <body>
+    <h1>Horario y Guía del Curso</h1>
+
+    <!--Lista desordenada-->
+    <!--Lista rápida con emmet UL>LI*#-->
+    <h2>Materiales del curso con lista desordenada</h2>
+    <ul type="SQUARE">
+      <li>Visual Studio Code</li>
+      <li>Cuenta de Github</li>
+      <li>Cuaderno de la bitacora</li>
+      <li>Computadora con conexón a internet</li>
+    </ul>
+
+    <br /><hr />
+
+    <!--Lista Ordenada-->
+    <h2>Cómo entregar una práctica con lista ordenada</h2>
+    <!--Emmet: ol>li*8-->
+    <ol>
+      <li>Traer los cambios con un git pull</li>
+      <li>Crear la rama para la práctica con git switch -c "nombre de la rama"</li>
+      <li>Trabajar y hace commits atómicos</li>
+      <li>Subir la rama con git push</li>
+      <li>Abrir un pull request en Github</li>
+      <li>Revisar y fusionar el pull request</li>
+      <li>Volver a la rama principal (main)</li>
+      <li>Eliminar la rama de la práctica con git branch -d "nombre de la rama"</li>
+    </ol>
+    <br /><hr />
+    <!--Algunos atributos se pueden cambiar con "TYPE, START, REVERSED, CIRCLE (ul) O SQUARE (ul) ETC" -->
+
+    <!--listas descriptivas, utiliza pares de términos y descripción-->
+    <h2>Glosario de Git con listas descriptivas</h2>
+    <!--Emmet:dl>(dt+dd)*#-->
+    <dl>
+        <dt>Commit:</dt>
+        <dd>Instantánea permanente del proyecto en un momento dado</dd>
+        <dt>Rama:</dt>
+        <dd>Línea de trabajo paralela que no afecta a main o a la rama principal</dd>
+        <dt>Pull request:</dt>
+        <dd>Solicitud de revisión para incorporar una rama</dd>
+    </dl>
+    <br><hr>
+
+    <!--listas anidadas, usadas en menús y submenús-->
+    <h2>Temario de la unidad con lista anidada</h2>
+    <!--Emmet: ul>li>ul>li*2*3-->
+    <ul>
+        <li>Estructura de un documento web</li>
+            <ul>
+                <li>DOCTYPE Y HTML</li>
+                <li>HEAD y Metadatos</li>
+            </ul>
+        </li>
+        <li>Contenido</li>
+            <ul>
+                <li>Texto y enlacesL</li>
+                <li>Listas y tablas</li>
+            </ul>
+        </li>
+    </ul>
+
+
+
+  </body>
 </html>
