@@ -61,7 +61,7 @@ Portafolio-Codificación de Páginas Web/
 |  S03   | Estructura del documento HTML5 |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S04   | Texto, enlaces y anclas        |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S05   | Listas y tablas                |                                                      | [ver](unidad-02/) | [ver](recursos/) |
-|  S06   | Formularios y semántica        |                                                      | [ver](unidad-02/) | [ver](recursos/) |
+|  S06   | Formularios y semántica        | Aprendimos sobre etiquetas y semántica.                                                     | [ver](unidad-02/) | [ver](Recursos/) |
 |  S07   | Multimedia                     |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S08   | SVG y repaso                   |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 
