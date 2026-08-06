@@ -1,0 +1,10 @@
+/*css/estilos.css*/
+body    {
+    font-family: Arial, sans-serif;
+    color: rgb(193, 98, 8);
+}
+h1  {
+    color: rgb(173, 9, 31);
+    font-size:32px;
+    text-align: center;
+}
